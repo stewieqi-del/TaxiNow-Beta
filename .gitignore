@@ -1,0 +1,16 @@
+artifacts/
+bin/
+obj/
+*.exe
+*.zip
+*.db*
+*.pdf
+*.log
+.env*
+*token*
+*secret*
+desktop-settings.json
+desktop-storage-root.txt
+maps/
+charts/
+WebView2/
